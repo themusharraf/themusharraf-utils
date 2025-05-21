@@ -7,13 +7,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "themusharraf-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "A collection of useful Python utilities by Musharraf"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
 authors = [
-    { name = "Musharraf Ibragimov", email = "meibrohimov@example.com" }
+    { name = "Musharraf Ibragimov", email = "meibrohimov@gmail.com" }
 ]
 dependencies = []
 
