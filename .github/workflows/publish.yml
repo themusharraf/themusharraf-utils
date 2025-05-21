@@ -5,7 +5,7 @@ on:
     branches:
       - main
     tags:
-      - 'v*'  # faqat v0.1.0 kabi taglar bo‘lsa
+      - 'v*'
 
 jobs:
   build-and-publish:
